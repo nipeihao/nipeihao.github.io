@@ -1,0 +1,103 @@
+banner:
+  enable: true
+  title: 晚来天欲雪
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+#社交平台
+social:
+#页面链接
+pages:
+#头像
+avatar:
+  enable: true
+  url: /images/avatar.jpg
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 😎
+    message: ''
+#信息
+post_meta:
+  item_text: false
+  created_at: true
+  updated_at: true
+  categories: true
+  tags: true
+  #背景
+bg_image:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg # recomend image related to your mode
+  dark: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/galaxy.jpg
+  # blur: 30px
+  opacity: 1
+#搜索框
+search:
+  modal: true
+  bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
+  dark_bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/mountain-blur-30px.jpg
+  placeholder: 想要搜些什么？
+engine_search:
+  enable: false
+local_search:
+  enable: true
+  src: /js/search/local-search.js
+# 关闭 highlight
+highlight:
+  enable: false
+# 启用 prism
+prismjs:
+  enable: true
+  preprocess: true
+  line_number: false
+  tab_replace: ""
+#  copy_btn: 开启一键复制按钮
+#prismjs
+#  light: 亮模式下，代码高亮主题
+#  dark: 暗模式下，代码高亮主题
+codeblock:
+  copy_btn: true
+  prismjs:
+    light: default
+    dark: tomorrow
+#打赏
+reward:
+  enable: true
+  icon: icon-hand-coin-line
+  comment: 永远相信美好的事情即将发生.
+  # url: https://github.com/YunYouJun/yunyoujun.github.io/issues/96
+  methods:
+    - name: 支付宝
+      path: /images/zfb.jpg
+      color: "#00A3EE"
+      icon: icon-alipay-line
+    - name: QQ 支付
+      path: /images/qq.png
+      color: "#12B7F5"
+      icon: icon-qq-line
+    - name: 微信支付
+      path: /images/wx.png
+      color: "#2DC100"
+      icon: icon-wechat-pay-line
+footer:
+#驱动
+  powered:
+    enable: false
+  live_time:
+    enable: true
+    prefix: 运行时间
+    suffix: (੭*ˊᵕˋ)੭
+    start_time: "2021-04-06T00:00:00"
+#使用彩色的词云替代原生的标签云
+wordcloud:
+  enable: true
+  count: true
+  time: true
+  height: 350
