@@ -1,5 +1,5 @@
 ---
-title: test
+title: 
 date: 202-04-06 
 tags:
     - 介绍
@@ -7,9 +7,7 @@ tags:
 categories:
     - 介绍篇
 ---
-
-## 第一篇文章
- 
-内容有以下三点：
-...
-展开
+## 我们的征途是星辰大海
+  ---
+  ![go_ahead](https://blog-1305510897.cos.ap-nanjing.myqcloud.com/img.jpg)
+  ---
