@@ -101,3 +101,7 @@ wordcloud:
   count: true
   time: true
   height: 350
+  #字数统计
+wordcount:
+  enable: true
+  count: true
