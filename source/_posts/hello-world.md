@@ -10,6 +10,7 @@ categories:
 ## 我们的征途是星辰大海
 
 ---
-  ![go_ahead](https://blog-1305510897.cos.ap-nanjing.myqcloud.com/greg-rakozy-oMpAz-DN-9I-unsplash.jpg)
+  
+  ![go_ahead](https://img.imgdb.cn/item/606dbcdc8322e6675c34d827.jpg)
 
 ---
